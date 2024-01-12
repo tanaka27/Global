@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sttrm_state">
+    <sttrm_state action="INSERT_OR_UPDATE">
+        <initial_state>false</initial_state>
+        <state_label>Review</state_label>
+        <state_sequence>5</state_sequence>
+        <state_value>0</state_value>
+        <sttrm_model display_value="PoC Change">4787cf4147e235103bedfb42e36d43d6</sttrm_model>
+        <sys_class_name>sttrm_state</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 04:36:02</sys_created_on>
+        <sys_id>b72c68f147a631103bedfb42e36d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Review</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>sttrm_state_b72c68f147a631103bedfb42e36d437a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 04:36:02</sys_updated_on>
+    </sttrm_state>
+    <sys_translated_text action="delete_multiple" query="documentkey=b72c68f147a631103bedfb42e36d437a"/>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model">
+    <chg_model action="DELETE">
+        <active>true</active>
+        <advanced_security>false</advanced_security>
+        <available_in_ui>true</available_in_ui>
+        <color>#cbcbcb</color>
+        <default_change_model>false</default_change_model>
+        <description/>
+        <implementation_states/>
+        <name>Test Custom Model</name>
+        <read_roles>itil,sn_change_read</read_roles>
+        <record_preset>type=normal^EQ</record_preset>
+        <state_field>state</state_field>
+        <sys_class_name>chg_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 05:24:38</sys_created_on>
+        <sys_id>6f04668d47eef1103bedfb42e36d4318</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test Custom Model</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>chg_model_6f04668d47eef1103bedfb42e36d4318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 05:25:16</sys_updated_on>
+        <table_name>change_request</table_name>
+        <write_roles/>
+    </chg_model>
+    <sys_translated_text action="DELETE" query="documentkey=6f04668d47eef1103bedfb42e36d4318"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</application>
+        <file_path/>
+        <instance_id>f819c6bedbd6b8103050ac44d496195c</instance_id>
+        <instance_name>dev118843</instance_name>
+        <name>chg_model_6f04668d47eef1103bedfb42e36d4318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model"><chg_model action="INSERT_OR_UPDATE"><active>true</active><advanced_security>false</advanced_security><available_in_ui>true</available_in_ui><color>#cbcbcb</color><default_change_model>false</default_change_model><description/><implementation_states/><name>Test Custom Model</name><read_roles>itil,sn_change_read</read_roles><record_preset>type=normal^EQ</record_preset><state_field>state</state_field><sys_class_name>chg_model</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-15 05:24:38</sys_created_on><sys_id>6f04668d47eef1103bedfb42e36d4318</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test Custom Model</sys_name><sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package><sys_policy/><sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope><sys_update_name>chg_model_6f04668d47eef1103bedfb42e36d4318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-15 05:25:16</sys_updated_on><table_name>change_request</table_name><write_roles/></chg_model><sys_translated_text action="delete_multiple" query="documentkey=6f04668d47eef1103bedfb42e36d4318"/></record_update>]]></payload>
+        <payload_hash>-817622677</payload_hash>
+        <record_name>Test Custom Model</record_name>
+        <reverted_from/>
+        <source>f5b6cbac475e31103bedfb42e36d43f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 05:25:16</sys_created_on>
+        <sys_id>1f44aa8947eef1103bedfb42e36d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd170dc110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 05:25:16</sys_updated_on>
+        <type>Change Model</type>
+        <update_guid>1744aa89b1eef110a20c4016764dbacd</update_guid>
+        <update_guid_history>1744aa89b1eef110a20c4016764dbacd:-817622677,0624e28d0feef11022b0069818d8c4ef:2106707636</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test Custom Model">e09b2cb147a631103bedfb42e36d431f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 04:33:14</sys_created_on>
+        <sys_db_object display_value="" name="chg_model">chg_model</sys_db_object>
+        <sys_id>838ed72afcb3433084fb65d50ab41b90</sys_id>
+        <sys_metadata>6f04668d47eef1103bedfb42e36d4318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Custom Model</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_scope_delete display_value="">9f0cdfc5c2994148a5ffa74320d85229</sys_scope_delete>
+        <sys_update_name>chg_model_6f04668d47eef1103bedfb42e36d4318</sys_update_name>
+        <sys_update_version display_value="chg_model_6f04668d47eef1103bedfb42e36d4318">1f44aa8947eef1103bedfb42e36d43cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 04:33:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

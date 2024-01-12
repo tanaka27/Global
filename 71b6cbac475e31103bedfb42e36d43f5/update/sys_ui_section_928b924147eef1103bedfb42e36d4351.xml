@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Schedule" section_id="928b924147eef1103bedfb42e36d4351" sys_domain="global" table="x_1094491_test_app_test_custom_change" version="3" view="emergencyChange">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>128b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>928b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>168b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>968b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unauthorized</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>1a8b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>9a8b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>1e8b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>9e8b924147eef1103bedfb42e36d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>128b924147eef1103bedfb42e36d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_required</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>928b924147eef1103bedfb42e36d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>168b924147eef1103bedfb42e36d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_delegate</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>968b924147eef1103bedfb42e36d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_id>1a8b924147eef1103bedfb42e36d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">928b924147eef1103bedfb42e36d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Schedule</caption>
+            <header>false</header>
+            <name>x_1094491_test_app_test_custom_change</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>928b924147eef1103bedfb42e36d4351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1094491_test_app_test_custom_change</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+            <sys_update_name>sys_ui_section_928b924147eef1103bedfb42e36d4351</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Emergency" name="emergencyChange">7964e0530a0a0b8c00ae51f470e50465</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

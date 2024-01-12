@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b4c70fa8479e31103bedfb42e36d43e6" extends="task" label="New Table extends task" max_length="40" name="x_1094491_test_app_new_table_extends_task" type="collection">
+        <element label="Color" max_length="40" name="color" type="color"/>
+    </element>
+</database>

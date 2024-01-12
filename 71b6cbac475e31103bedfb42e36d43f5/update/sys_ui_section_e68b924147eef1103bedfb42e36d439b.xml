@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Planning" section_id="e68b924147eef1103bedfb42e36d439b" sys_domain="global" table="x_1094491_test_app_test_custom_change" version="3" view="sow">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:59</sys_created_on>
+            <sys_id>268b924147eef1103bedfb42e36d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">e68b924147eef1103bedfb42e36d439b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>implementation_plan</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:59</sys_created_on>
+            <sys_id>a68b924147eef1103bedfb42e36d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">e68b924147eef1103bedfb42e36d439b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_impact_analysis</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:59</sys_created_on>
+            <sys_id>2a8b924147eef1103bedfb42e36d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">e68b924147eef1103bedfb42e36d439b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>backout_plan</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:59</sys_created_on>
+            <sys_id>aa8b924147eef1103bedfb42e36d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">e68b924147eef1103bedfb42e36d439b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_plan</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:59</sys_created_on>
+            <sys_id>2e8b924147eef1103bedfb42e36d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">e68b924147eef1103bedfb42e36d439b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Planning</caption>
+            <header>false</header>
+            <name>x_1094491_test_app_test_custom_change</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:46:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e68b924147eef1103bedfb42e36d439b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1094491_test_app_test_custom_change</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+            <sys_update_name>sys_ui_section_e68b924147eef1103bedfb42e36d439b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:46:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Service Operations Workspace" name="sow">f5c0a49877413010dc2c885d9f5a999e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Table extends task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>New Table extends task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d1998c87243021108c8bc6863d3fade0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 08:27:32</sys_created_on>
+        <sys_id>34c74fa8479e31103bedfb42e36d4358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Table extends task</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>sys_wizard_answer_34c74fa8479e31103bedfb42e36d4358</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 08:27:32</sys_updated_on>
+        <table/>
+        <target_url>x_1094491_test_app_new_table_extends_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

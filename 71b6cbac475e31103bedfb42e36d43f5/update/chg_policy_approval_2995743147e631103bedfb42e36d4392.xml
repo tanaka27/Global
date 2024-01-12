@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="chg_policy_approval">
+    <chg_policy_approval action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <answer_table>chg_approval_def</answer_table>
+        <answer_type>reference</answer_type>
+        <delta/>
+        <description/>
+        <enable_publishing>false</enable_publishing>
+        <execution>all</execution>
+        <label/>
+        <name>PoC Change Policy</name>
+        <reference_qualifier/>
+        <status/>
+        <sys_class_name>chg_policy_approval</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 05:17:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2995743147e631103bedfb42e36d4392</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PoC Change Policy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>chg_policy_approval_2995743147e631103bedfb42e36d4392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 05:17:32</sys_updated_on>
+    </chg_policy_approval>
+</record_update>

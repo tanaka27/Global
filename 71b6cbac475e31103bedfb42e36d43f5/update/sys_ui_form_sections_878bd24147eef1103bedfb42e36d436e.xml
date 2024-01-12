@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="878bd24147eef1103bedfb42e36d436e" sys_domain="global" table="x_1094491_test_app_test_custom_change" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb8bd24147eef1103bedfb42e36d4383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1094491_test_app_test_custom_change" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">878bd24147eef1103bedfb42e36d436e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">c38bd24147eef1103bedfb42e36d437c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:47:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f8bd24147eef1103bedfb42e36d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1094491_test_app_test_custom_change" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">878bd24147eef1103bedfb42e36d436e</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">c38bd24147eef1103bedfb42e36d4389</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:47:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f8bd24147eef1103bedfb42e36d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1094491_test_app_test_custom_change" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">878bd24147eef1103bedfb42e36d436e</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">038bd24147eef1103bedfb42e36d4384</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:47:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>478bd24147eef1103bedfb42e36d4377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1094491_test_app_test_custom_change" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">878bd24147eef1103bedfb42e36d436e</sys_ui_form>
+            <sys_ui_section caption="Conflicts" display_value="Conflicts" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">c38bd24147eef1103bedfb42e36d4374</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:47:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f8bd24147eef1103bedfb42e36d437b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1094491_test_app_test_custom_change" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">878bd24147eef1103bedfb42e36d436e</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">8b8bd24147eef1103bedfb42e36d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:47:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f8bd24147eef1103bedfb42e36d4373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1094491_test_app_test_custom_change" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">878bd24147eef1103bedfb42e36d436e</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_1094491_test_app_test_custom_change" sys_domain="global" view="Default view">0f8bd24147eef1103bedfb42e36d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:47:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1094491_test_app_test_custom_change</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>878bd24147eef1103bedfb42e36d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1094491_test_app_test_custom_change</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_878bd24147eef1103bedfb42e36d436e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 04:47:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

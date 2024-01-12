@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>priority</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Make Mandatory</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue) {			
+    if (oldValue == newValue)
+        return;
+			
+    g_form.setMandatory('short_description', true);
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-02 01:19:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>226f22304792b1103bedfb42e36d43f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make Mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>sys_script_client_226f22304792b1103bedfb42e36d43f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-02 01:19:39</sys_updated_on>
+        <table>incident</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</application>
+        <file_path/>
+        <instance_id>f819c6bedbd6b8103050ac44d496195c</instance_id>
+        <instance_name>dev118843</instance_name>
+        <name>sys_script_client_226f22304792b1103bedfb42e36d43f3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;priority&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Make Mandatory&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue) {			
+    if (oldValue == newValue)
+        return;
+			
+    g_form.setMandatory('short_description', true);
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-02 01:19:39&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;226f22304792b1103bedfb42e36d43f3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Make Mandatory&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Test Application" source="x_1094491_test_app"&gt;71b6cbac475e31103bedfb42e36d43f5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Test Application"&gt;71b6cbac475e31103bedfb42e36d43f5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_226f22304792b1103bedfb42e36d43f3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-02 01:19:39&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>524935052</payload_hash>
+        <record_name>Make Mandatory</record_name>
+        <reverted_from/>
+        <source>f5b6cbac475e31103bedfb42e36d43f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-02 01:19:39</sys_created_on>
+        <sys_id>6a6f22304792b1103bedfb42e36d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b8d9d51400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-02 01:19:39</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>ae6f2230f292b110b1e4ae6f4a32eaf5</update_guid>
+        <update_guid_history>ae6f2230f292b110b1e4ae6f4a32eaf5:524935052</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-02 01:20:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>05c727a79c4c465c816ecacf960bbd64</sys_id>
+        <sys_metadata>226f22304792b1103bedfb42e36d43f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make Mandatory</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_parent display_value="Incident">6c8c004724b021108c8bc6863d3fad1c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_scope_delete display_value="">9f0cdfc5c2994148a5ffa74320d85229</sys_scope_delete>
+        <sys_update_name>sys_script_client_226f22304792b1103bedfb42e36d43f3</sys_update_name>
+        <sys_update_version display_value="sys_script_client_226f22304792b1103bedfb42e36d43f3">6a6f22304792b1103bedfb42e36d43f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-02 01:20:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

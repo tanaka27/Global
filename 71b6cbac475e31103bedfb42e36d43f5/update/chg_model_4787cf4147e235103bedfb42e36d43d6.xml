@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model">
+    <chg_model action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced_security>false</advanced_security>
+        <available_in_ui>true</available_in_ui>
+        <color>#cbcbcb</color>
+        <default_change_model>false</default_change_model>
+        <description/>
+        <implementation_states/>
+        <name>PoC Change</name>
+        <read_roles>itil,sn_change_read</read_roles>
+        <record_preset>type=normal^EQ</record_preset>
+        <state_field>state</state_field>
+        <sys_class_name>chg_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 07:59:43</sys_created_on>
+        <sys_id>4787cf4147e235103bedfb42e36d43d6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PoC Change</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>chg_model_4787cf4147e235103bedfb42e36d43d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 04:34:03</sys_updated_on>
+        <table_name>x_1094491_test_app_test_custom_change</table_name>
+        <write_roles/>
+    </chg_model>
+    <sys_translated_text action="delete_multiple" query="documentkey=4787cf4147e235103bedfb42e36d43d6"/>
+</record_update>

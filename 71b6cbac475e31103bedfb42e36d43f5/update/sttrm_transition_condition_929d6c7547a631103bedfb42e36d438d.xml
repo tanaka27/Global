@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sttrm_transition_condition">
+    <sttrm_transition_condition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <condition_script><![CDATA[(function (current) {
+    //This function should return a true/false value to determine if the condition has passed or not
+})(current);]]></condition_script>
+        <condition_type display_value="Task is Approved">7d160f945303101034d1ddeeff7b12cb</condition_type>
+        <description/>
+        <name>Authorize from assignee</name>
+        <order>100</order>
+        <sttrm_state_transition display_value="Authorize to Check">a58de07547a631103bedfb42e36d43d8</sttrm_state_transition>
+        <sys_class_name>sttrm_transition_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 04:42:49</sys_created_on>
+        <sys_id>929d6c7547a631103bedfb42e36d438d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Authorize from assignee</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>sttrm_transition_condition_929d6c7547a631103bedfb42e36d438d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 05:05:06</sys_updated_on>
+    </sttrm_transition_condition>
+    <sys_translated_text action="delete_multiple" query="documentkey=929d6c7547a631103bedfb42e36d438d"/>
+</record_update>

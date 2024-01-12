@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="work_end" label="Actual end date" language="en" table="x_1094491_test_app_test_custom_change">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <help/>
+            <hint/>
+            <label>Actual end date</label>
+            <language>en</language>
+            <name>x_1094491_test_app_test_custom_change</name>
+            <plural>Actual end dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-15 05:13:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Actual end date</sys_name>
+            <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+            <sys_update_name>sys_documentation_x_1094491_test_app_test_custom_change_work_end_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-15 05:13:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

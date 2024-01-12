@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sttrm_state_transition">
+    <sttrm_state_transition action="INSERT_OR_UPDATE">
+        <automatic>false</automatic>
+        <from_state display_value="Scheduled">b61c20f147a631103bedfb42e36d4317</from_state>
+        <name>Scheduled to Implement</name>
+        <sys_class_name>sttrm_state_transition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 04:43:16</sys_created_on>
+        <sys_id>7ddde83547a631103bedfb42e36d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduled to Implement</sys_name>
+        <sys_package display_value="Test Application" source="x_1094491_test_app">71b6cbac475e31103bedfb42e36d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">71b6cbac475e31103bedfb42e36d43f5</sys_scope>
+        <sys_update_name>sttrm_state_transition_7ddde83547a631103bedfb42e36d439a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 04:43:16</sys_updated_on>
+        <to_state display_value="Implement">652c68f147a631103bedfb42e36d4343</to_state>
+    </sttrm_state_transition>
+    <sys_translated_text action="delete_multiple" query="documentkey=7ddde83547a631103bedfb42e36d439a"/>
+</record_update>
